@@ -1,0 +1,10 @@
+Bug Log
+
+When sliding, if you move into range of an NPC, slide animation continues as usual but movement stops.
+If you interact with an NPC during sliding, sliding animation will continue and loop while talking, 
+	but no movement happens. 
+Jeweler and Hunter dialogue is fine, but for Herbalist and Blacksmith the first page of dialogue always 
+	appears instantly (instead of animating letter by letter), and after finishing dialogue the player must 
+	hit space once more to regain movement. 
+	
+

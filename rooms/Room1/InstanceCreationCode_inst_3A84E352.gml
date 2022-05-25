@@ -1,0 +1,1 @@
+enemyObject = oTargetDummy;
